@@ -1,0 +1,23 @@
+export const surpriseMePrompts = [
+  'A cosmic ballet of fireflies dancing in the aurora-filled night sky',
+  'A carousel of mythical creatures, from unicorns to griffins, in a magical forest',
+  'A futuristic underwater city with bioluminescent sea creatures',
+  'A time-traveling scientist observing the birth of a new star',
+  'A surreal underwater tea party with talking sea creatures',
+  'A mystical library hidden within a giant floating crystal',
+  'A technicolor dreamland where gravity works in reverse',
+  'A floating city above the clouds, powered by sunlight and wind',
+  'An enchanted garden of floating islands, each with its own ecosystem',
+  'A steampunk airship racing through the skies in a high-stakes competition',
+  'A secret society of robots conducting a grand symphony in a hidden cavern',
+  'A celestial safari with alien animals grazing on the rings of Saturn',
+  'A whimsical village of mushroom houses, inhabited by tiny forest creatures',
+  'A digital wonderland with pixelated landscapes and neon architecture',
+  'An intergalactic market selling exotic alien fruits and souvenirs',
+  'A mesmerizing light show of neon jellyfish illuminating the deep ocean',
+  'A time-bending clock tower at the center of a magical steampunk city',
+  'An ethereal ice palace guarded by graceful ice sculptures',
+  'A space-faring pirate crew embarking on a quest for cosmic treasure',
+  'A dimension-hopping explorer encountering surreal worlds at every turn',
+  // Add more prompts here...
+]
